@@ -13,7 +13,7 @@
 
 
         <packages>
-            <package name=".*"></package>
+            <package name="tests"></package>
         </packages>
 
     </test> <!-- Test -->
